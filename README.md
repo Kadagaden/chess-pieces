@@ -12,7 +12,7 @@ Inspired by the [Neo pieces](https://i.imgur.com/d3RhW7o.png) of chess.com
 
 [Additional screenshots](https://imgur.com/a/XeJdVy5)
 
-You can use this piece set on Lichess with [this userstyle](https://userstyles.org/styles/180754/lichess-pychess-kaneo-pieces).
+You can use this piece set on Lichess and Pychess.org with [this userstyle](https://userstyles.org/styles/180754/lichess-pychess-kaneo-pieces).
 
 ## Lincese
 
