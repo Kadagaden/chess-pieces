@@ -65,7 +65,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -83,20 +83,20 @@
            inkscape:connector-curvature="0"
            id="path8778-9-0-4-1"
            d="m -276.96394,210.6118 1.53269,2.31683 v 10.64948 l -4.89846,6.25647 25.83563,0.35812 -4.79759,-6.61459 v -10.64948 l 1.92154,-2.31683 z"
-           style="fill:#575452;fill-opacity:1;fill-rule:evenodd;stroke:#1a1a1a;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+           style="fill:#575452;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
         <path
            sodipodi:nodetypes="ccccccccccccccc"
            inkscape:connector-curvature="0"
            id="path4582-8-6-1-7-7-2"
            d="m -273.71515,210.66764 h -5.18962 l -2.7016,-10.41156 h 5.89519 l 2.03805,6.88303 h 3.74842 l -0.33076,-6.88303 h 6.22025 l -0.32329,6.88303 h 3.48383 l 2.36086,-6.75074 6.05611,-0.13229 -2.89437,10.54462 -5.67745,-0.13306 z"
-           style="fill:#575452;fill-opacity:1;fill-rule:evenodd;stroke:#1a1a1a;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+           style="fill:#575452;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       </g>
       <path
          sodipodi:nodetypes="sccccss"
          inkscape:connector-curvature="0"
          id="rect4661-3-4-1-5-6-3-4-5-8-8"
          d="m -429.09469,228.22752 c -1.45756,0 -2.63098,0.89164 -2.63098,1.99918 0.002,1.98724 -3.1e-4,4.0829 0,5.89995 h 31.07216 c -1.1e-4,-2.17531 0,-3.85269 0,-5.89995 0,-1.10754 -1.17343,-1.99918 -2.63099,-1.99918 z"
-         style="opacity:1;fill:#575452;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.31536531;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+         style="opacity:1;fill:#575452;fill-opacity:1;stroke:#000000;stroke-width:1.31536531;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
     </g>
     <path
        sodipodi:nodetypes="cccc"
