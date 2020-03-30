@@ -1,8 +1,8 @@
-## About
+ About
 
-Repository for chess pieces I made or modified.
+Pieces and boards for standard chess and other chess variants. (Except for Shogi pieces, those are in a their own repository: [https://github.com/Ka-hu/shogi-pieces](https://github.com/Ka-hu/shogi-pieces)).
 
-## Piece Sets
+# Chess Piece Sets
 
 ### Kaneo
 
@@ -22,6 +22,15 @@ Alternative version of the Kaneo piece set, with midnight blue and moon yellow p
 
 You can use this piece set on Lichess with [this userstyle](https://userstyles.org/styles/181319/lichess-kaneo-midnight-pieces).
 
-## License
+# Sittuyin (Burmese chess) Piece Sets
+
+### Black & Red
+![sittuyin black-red pieces screenshot](https://i.imgur.com/JGTDGb4.png)
+
+### Green & Red
+![sittuyin green-red pieces screenshot](https://i.imgur.com/sEStnYm.png)
+
+
+# License
 
 Where it's not stated otherwise, my work is lincensed under [CC-BY-4.0](https://choosealicense.com/licenses/cc-by-4.0)
