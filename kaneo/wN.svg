@@ -37,9 +37,9 @@
      inkscape:window-height="720"
      id="namedview9035"
      showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="-196.92687"
-     inkscape:cy="7.1116137"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="116.7427"
+     inkscape:cy="96.441302"
      inkscape:window-x="0"
      inkscape:window-y="46"
      inkscape:window-maximized="0"
@@ -65,7 +65,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -89,7 +89,7 @@
            inkscape:connector-curvature="0"
            id="path10451"
            d="m -321.42982,206.20344 c -0.40342,0.63291 -2.37309,0.32339 -2.3825,-0.008 -0.0413,-1.33683 2.88117,-1.54992 2.90076,-1.29477"
-           style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.40096557;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+           style="opacity:1;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.40096557;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
       </g>
       <path
          sodipodi:nodetypes="sccccss"
@@ -102,9 +102,9 @@
          inkscape:connector-curvature="0"
          id="path10451-9"
          d="m -329.26454,213.05813 c 0.5563,0.10473 1.40256,-1.13834 1.22498,-1.3147 -0.71394,-0.71263 -2.33937,0.78481 -2.20915,0.92726"
-         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05663764;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+         style="opacity:1;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.05663764;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
       <path
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.28615761;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="fill:none;fill-rule:evenodd;stroke:#333333;stroke-width:1.28615761;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m -327.68389,216.9422 c 0.40748,-0.6395 0.7247,-1.31777 1.62551,-1.74538"
          id="path10981"
          inkscape:connector-curvature="0"
