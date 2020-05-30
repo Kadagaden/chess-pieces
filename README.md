@@ -16,11 +16,13 @@ Jump to: [Chess](#chess) | [Janggi](#janggi-korean-chess) | [Xiangqi](#xiangqi-c
 
 | Screenshot | Description  | Userstyle |
 |---|---|---|
-|  <img src="https://i.imgur.com/iUcOvyc.png" style="min-width:300px;width:300px"> | **Kaneo piece set**<br> Inspired by the [Neo pieces](https://i.imgur.com/d3RhW7o.png) of chess.com. <br>It includes fairy pieces like Hawk, Elephant, Cannon, Archbishop, Chancellor.<br> You can play with these pieces on pychess.org.<br> [Additional screenshots](https://imgur.com/a/XeJdVy5) | [userstyle](https://userstyles.org/styles/180754/lichess-pychess-kaneo-pieces)  |
-|  <img src="https://i.imgur.com/5Q6oM6O.png" style="min-width:300px;width:300px;"> | **Kaneo Midnight piece set**<br> Alternative version of the Kaneo piece set, with midnight blue and moon yellow pieces. (No fairy pieces yet.) | [userstyle](https://userstyles.org/styles/181319/lichess-kaneo-midnight-pieces)  |
+|  <img src="https://i.imgur.com/7ITvYaU.png" style="min-width:300px;width:300px"> | **Kaneo piece set**<br> Inspired by the [Neo pieces](https://i.imgur.com/d3RhW7o.png) of chess.com. <br>It includes fairy pieces: Hawk, Elephant, Cannon, Archbishop, Chancellor.<br> You can play with these pieces on pychess.org.<br> [Screenshots](https://imgur.com/a/XeJdVy5) | [userstyle](https://userstyles.org/styles/180754/lichess-pychess-kaneo-pieces)  |
+|  <img src="https://i.imgur.com/5WvQ0wL.png" style="min-width:300px;width:300px;"> | **Kaneo Midnight piece set**<br> Alternative version of the Kaneo piece set, with midnight blue and moon yellow pieces. (No fairy pieces yet.) | [userstyle](https://userstyles.org/styles/181319/lichess-kaneo-midnight-pieces)  |
+|  <img src="https://i.imgur.com/qNEcow3.png" style="min-width:300px;width:300px;"> | **Maestro BW piece set**<br> A black & white version of the [Maestro piece set](https://github.com/ornicar/lila/tree/master/public/piece/maestro) |  |
 |  <img src="https://i.imgur.com/3DkeVv0.png" style="min-width:300px;width:300px;"> | Wood board (8x8) | |
 |  <img src="https://i.imgur.com/fKrwBvS.png" style="min-width:300px;width:300px;"> | Brown-Yellow board (8x8) | |
-|  <img src="https://i.imgur.com/ub86WiD.png" style="min-width:300px;width:300px;"> | Pinkish Brown-Yellow (8x8) | |
+|  <img src="https://i.imgur.com/1wXoQ2m.png" style="min-width:300px;width:300px;"> | Brown-Sand board (8x8) | |
+|  <img src="https://i.imgur.com/ub86WiD.png" style="min-width:300px;width:300px;"> | Pinkish Brown-Yellow board(8x8) | |
 
 ### Janggi (Korean Chess)
 
