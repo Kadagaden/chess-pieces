@@ -1,3 +1,4 @@
+
 ## About
 
 Pieces and boards for standard chess and other chess variants. (Except for Shogi pieces, those are in a their own repository: [https://github.com/Ka-hu/shogi-pieces](https://github.com/Ka-hu/shogi-pieces)).
@@ -40,6 +41,8 @@ Jump to: [Chess](#chess) | [Janggi](#janggi-korean-chess) | [Xiangqi](#xiangqi-c
 | Screenshot | Description |
 |---|---|
 |  <img src="https://i.imgur.com/9x9q5LL.png" style="min-width:300px;width:300px"> | **gmchess style wood piece set and board**<br> A vector (svg) remake of the [gmchess](https://code.google.com/archive/p/gmchess/downloads) piece set. <br>The original pieces are low res png images so I made a scalable vector graphics version (as it was requested, see issue #1). <br>The vector remake of the wood board is also included. |
+|  <img src="https://i.imgur.com/8u3HLBQ.png" style="min-width:300px;width:300px"> | **gmchess alternative black & red pieces**<br> Alternative version of the gmchess wood piece set |
+|  <img src="https://i.imgur.com/UZabBgw.png" style="min-width:300px;width:300px"> | **gmchess alternative gray pieces**<br> Alternative version of the gmchess wood piece set <br>(The black board is not my work, it's available on pychess.org and in its [repository](https://github.com/gbtami/pychess-variants)) |
 |  <img src="https://i.imgur.com/M1RozvF.png" style="min-width:300px;width:300px"> | **Wikipedia Intl modified piece set and board**<br> Modified versions of the pieces from [Wikipedia](https://en.wikipedia.org/wiki/File:Xiangqi_Board.svg) made by [Inductiveload](https://commons.wikimedia.org/wiki/User:Inductiveload). <br>I fixed the strokes, made the King pieces symmetric and redrew the horse and the elephant pieces. <br>The board is also from Wikipedia but I recolored the palace and the river.|
 
 ### Sittuyin (Burmese Chess)
