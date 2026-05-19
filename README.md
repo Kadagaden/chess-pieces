@@ -19,7 +19,7 @@ Jump to: [Chess](#chess) | [Janggi](#janggi-korean-chess) | [Xiangqi](#xiangqi-c
 |  <img src="https://i.imgur.com/5WvQ0wL.png" style="min-width:300px;width:300px;"> | **Kaneo Midnight piece set**<br> Alternative version of the Kaneo piece set, with midnight blue and moon yellow pieces. (No fairy pieces yet.) |
 |  <img src="https://i.imgur.com/qNEcow3.png" style="min-width:300px;width:300px;"> | **Maestro BW piece set**<br> A black & white version of the [Maestro piece set](https://github.com/ornicar/lila/tree/master/public/piece/maestro) |
 |  <img src="https://i.imgur.com/vo5Gsbf.png" style="min-width:300px;width:300px;"> | 1 Kbyte Gambit pink board (8x8) [Install as user style for Lichess](https://greasyfork.org/en/scripts/423120-lichess-1-kbyte-gambit-piece-set-board) |
-|  <img src="https://i.imgur.com/3DkeVv0.png" style="min-width:300px;width:300px;"> | Wood board (8x8) |
+|  <img src="https://i.imgur.com/MaFSeTk.png" style="min-width:300px;width:300px;"> | Wood board (8x8) |
 |  <img src="https://i.imgur.com/fKrwBvS.png" style="min-width:300px;width:300px;"> | Brown-Yellow board (8x8) |
 |  <img src="https://i.imgur.com/1wXoQ2m.png" style="min-width:300px;width:300px;"> | Brown-Sand board (8x8) |
 |  <img src="https://i.imgur.com/ub86WiD.png" style="min-width:300px;width:300px;"> | Pinkish Brown-Yellow board(8x8) |
